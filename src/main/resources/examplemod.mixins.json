@@ -1,9 +1,9 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "dev.toapuro.examplemod.mixin",
+  "package": "io.github.toapuro.typespot.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "examplemod.refmap.json",
+  "refmap": "typespot.refmap.json",
   "mixins": [
   ],
   "client": [
